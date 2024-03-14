@@ -1,18 +1,14 @@
 
-# **React TypeScript Shopping Cart**
-This is a **simple shopping cart application** built with **React**, **TypeScript**, and **Bootstrap**. It allows users to browse a list of products, add them to their cart.
-
+# **React TypeScript OTP Screen Project**
+This project is a simple OTP (One-Time Password) screen implemented using React with TypeScript. It allows users to enter a 4-digit OTP and verifies it against an expected OTP. Upon successful verification, it displays a success message.
 
 ## Features
-
-- View a list of products
-- Add products to the shopping cart
-- Adjust the quantity of items in the cart
-- Remove items from the cart
-- Calculate the total price of items in the cart
+- **Enter OTP**: Users can input a 4-digit OTP into the provided input fields.
+- **Automatic Cursor Movement**: After entering one digit, the cursor automatically moves to the next input box for seamless entry.
+- **OTP Verification**: The entered OTP is compared against an expected OTP to ensure accuracy.
+- **Resend OTP**: Users can request a new OTP if needed.
 ## Technologies Used
-
-- **React**: A JavaScript library for building user interfaces
-- **TypeScript**: A statically typed superset of JavaScript
-- **Bootstrap**: A front-end framework for building responsive and mobile-first websites
-- Other dependencies: **React Router DOM**, **Axios** (for HTTP requests)
+- **React.js**: A JavaScript library for building user interfaces.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **HTML**: The standard markup language for creating web pages.
+- **CSS**: Cascading Style Sheets for styling the user interface.
